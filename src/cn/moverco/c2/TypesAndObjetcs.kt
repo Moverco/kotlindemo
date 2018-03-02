@@ -17,6 +17,13 @@ open class Equipment(var os: String, var color: String) {
     }
 }
 
+/**
+ * output:
+Phone:os:android,color:black
+Laptop:os:android,color:black
+true
+true
+ */
 fun main(args: Array<String>) {
     val newPhone: Phone = Phone("android", "black")
     val newLaptop: Laptop = Laptop("android", "black")

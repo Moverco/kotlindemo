@@ -23,6 +23,11 @@ package cn.moverco.c2
  *     编译器尽可能的推导类型，远离无用的类型转换
  *     if(nullable!=null) nullable.length //true
  */
+/**
+ * output:
+Child
+8
+ */
 fun main(args: Array<String>) {
     val parent: Parent = Child()
     if (parent is Child) {
