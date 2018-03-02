@@ -1,4 +1,4 @@
-package cn.moverco.c2
+package cn.moverco.kotlindemo.c2
 
 /**
  * 类的继承

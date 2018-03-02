@@ -1,4 +1,4 @@
-package cn.moverco.c3.package1
+package cn.moverco.kotlindemo.c3.package1
 
 /**
  * kotlin中包不一定于路径一致，但不推荐

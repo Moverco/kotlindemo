@@ -1,4 +1,4 @@
-package cn.moverco.c2
+package cn.moverco.kotlindemo.c2
 
 fun getName():String{
     return "milton"//不会出现空指针异常

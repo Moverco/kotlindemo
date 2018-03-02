@@ -1,4 +1,4 @@
-package cn.moverco.c2
+package cn.moverco.kotlindemo.c2
 
 // kotlin中Boolean大多数情况下相当于JAVA中的boolean
 // 只有在某些情况下才会被装箱成Boolean包装类

@@ -1,4 +1,4 @@
-package cn.moverco.c4
+package cn.moverco.kotlindemo.c4
 
 /**
  * Lambda表达式 即 匿名函数

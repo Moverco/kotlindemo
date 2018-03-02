@@ -1,4 +1,4 @@
-package cn.moverco.c2
+package cn.moverco.kotlindemo.c2
 
 /**
  * 任意类型都有可空和不可空两种
@@ -29,12 +29,12 @@ Child
 8
  */
 fun main(args: Array<String>) {
-    val parent: Parent = Child()
-    if (parent is Child) {
+    val parent: cn.moverco.kotlindemo.c2.Parent = cn.moverco.kotlindemo.c2.Child()
+    if (parent is cn.moverco.kotlindemo.c2.Child) {
         println(parent.name)//相比于java不需要进行强制转换
     }
 
-    val child: Child? = parent as Child //parent as? CHild 安全的强制转换
+    val child: cn.moverco.kotlindemo.c2.Child? = parent as cn.moverco.kotlindemo.c2.Child //parent as? CHild 安全的强制转换
 
 
     val str: String? = "not null"

@@ -1,4 +1,4 @@
-package cn.moverco.c2
+package cn.moverco.kotlindemo.c2
 
 import cn.moverco.c3.package1.TypeDemo
 

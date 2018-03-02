@@ -1,4 +1,4 @@
-package cn.moverco.c2
+package cn.moverco.kotlindemo.c2
 
 /**
  * Range表示范围，是CloseRange的子类

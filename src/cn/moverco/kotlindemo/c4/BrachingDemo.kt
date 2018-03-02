@@ -1,4 +1,4 @@
-package cn.moverco.c4
+package cn.moverco.kotlindemo.c4
 
 private const val USERNAME = "milton"
 private const val PASSWD = "milton"

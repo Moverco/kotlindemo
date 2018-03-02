@@ -1,4 +1,4 @@
-package cn.moverco.c4
+package cn.moverco.kotlindemo.c4
 
 /**
  * 属性：类范围内的变量

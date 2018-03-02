@@ -1,4 +1,4 @@
-package cn.moverco.c4
+package cn.moverco.kotlindemo.c4
 //try catch 表达式
 fun main(args: Array<String>) {
     val result = try {

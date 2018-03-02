@@ -1,4 +1,4 @@
-package cn.moverco.c1
+package cn.moverco.kotlindemo.c1
 
 
 fun main(args:Array<String>){

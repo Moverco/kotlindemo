@@ -1,4 +1,4 @@
-package cn.moverco.c1
+package cn.moverco.kotlindemo.c1
 
 import cn.moverco.c3.package1.TypeDemo
 class HelloWorld
