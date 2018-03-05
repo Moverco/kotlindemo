@@ -1,6 +1,6 @@
 package cn.moverco.kotlindemo.c2
 
-import cn.moverco.c3.package1.TypeDemo
+import cn.moverco.kotlindemo.c3.package2.TypeDemo
 
 /**
  * 为避免不必要的装箱与拆箱，Kotlin提供了基本类型的数组

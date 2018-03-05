@@ -6,11 +6,11 @@ package cn.moverco.kotlindemo.c3.package1
  * 包的声明必须在非注释代码的第一行
  */
 
-import cn.moverco.c3.package2.TypeDemo as NewType
+import cn.moverco.kotlindemo.c3.package2.TypeDemo as NewType
 
 fun main(args: Array<String>) {
-    val demo1:TypeDemo = TypeDemo("type1")
-    val demo2:cn.moverco.c3.package2.TypeDemo = cn.moverco.c3.package2.TypeDemo("type2")
+    val demo1: Type = Type("type1")
+    val demo2:cn.moverco.kotlindemo.c3.package2.TypeDemo = cn.moverco.kotlindemo.c3.package2.TypeDemo("type2")
     //使用as关键字，可将上一行简写为
     val demo3:NewType = NewType("new type")
 

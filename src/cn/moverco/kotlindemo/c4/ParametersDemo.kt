@@ -1,6 +1,6 @@
 package cn.moverco.kotlindemo.c4
 
-import cn.moverco.c2.str
+import cn.moverco.kotlindemo.c2.str
 
 /**
  * 变长参数：

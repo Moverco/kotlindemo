@@ -1,7 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e81ec5c0-7df8-401e-88ab-3115d042bee6" name="Default" comment="" />
+    <list default="true" id="e81ec5c0-7df8-401e-88ab-3115d042bee6" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/cn/moverco/kotlindemo/c5/Conflicts.kt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/cn/moverco/kotlindemo/c5/Manager.kt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/cn/moverco/kotlindemo/c5/Person.kt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/cn/moverco/kotlindemo/c5/Visibility.kt" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlindemo/META-INF/kotlindemo.kotlin_module" afterPath="$PROJECT_DIR$/out/production/kotlindemo/META-INF/kotlindemo.kotlin_module" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlindemo/cn/moverco/c1/FirstKotlinDemoKt.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlindemo/cn/moverco/c1/HelloWorld.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlindemo/cn/moverco/c1/HelloWorldKt.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlindemo/cn/moverco/c2/ArrayKt.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlindemo/cn/moverco/c2/BasicTypesKt.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlindemo/cn/moverco/c2/Child.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlindemo/cn/moverco/c2/Equipment.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlindemo/cn/moverco/c2/Laptop.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlindemo/cn/moverco/c2/NullSafeKt.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlindemo/cn/moverco/c2/NullUnSafe.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlindemo/cn/moverco/c2/Parent.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlindemo/cn/moverco/c2/Phone.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlindemo/cn/moverco/c2/RangeKt.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlindemo/cn/moverco/c2/TypeCast.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlindemo/cn/moverco/c2/TypeCastKt.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlindemo/cn/moverco/c2/TypesAndObjetcsKt.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlindemo/cn/moverco/c3/package1/MainTypeKt.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlindemo/cn/moverco/c3/package1/TypeDemo.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlindemo/cn/moverco/c3/package2/TypeDemo.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlindemo/cn/moverco/c4/Boy$m$2.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlindemo/cn/moverco/c4/Boy.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlindemo/cn/moverco/c4/BrachingDemoKt.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlindemo/cn/moverco/c4/ClazzDemoKt.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlindemo/cn/moverco/c4/Complex.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlindemo/cn/moverco/c4/ExceptionDemoKt.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlindemo/cn/moverco/c4/FunctionDemoKt$result$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlindemo/cn/moverco/c4/FunctionDemoKt$sum2$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlindemo/cn/moverco/c4/FunctionDemoKt.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlindemo/cn/moverco/c4/LambdaDemoKt.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlindemo/cn/moverco/c4/LoopDemoKt.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlindemo/cn/moverco/c4/OperatorDemoKt.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlindemo/cn/moverco/c4/ParametersDemoKt.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlindemo/cn/moverco/c4/T.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/cn/moverco/kotlindemo/c1/HelloWorld.kt" afterPath="$PROJECT_DIR$/src/cn/moverco/kotlindemo/c1/HelloWorld.kt" />
+      <change beforePath="$PROJECT_DIR$/src/cn/moverco/kotlindemo/c2/Array.kt" afterPath="$PROJECT_DIR$/src/cn/moverco/kotlindemo/c2/Array.kt" />
+      <change beforePath="$PROJECT_DIR$/src/cn/moverco/kotlindemo/c2/TypeCast.kt" afterPath="$PROJECT_DIR$/src/cn/moverco/kotlindemo/c2/TypeCast.kt" />
+      <change beforePath="$PROJECT_DIR$/src/cn/moverco/kotlindemo/c3/package1/MainType.kt" afterPath="$PROJECT_DIR$/src/cn/moverco/kotlindemo/c3/package1/MainType.kt" />
+      <change beforePath="$PROJECT_DIR$/src/cn/moverco/kotlindemo/c3/package1/Type.kt" afterPath="$PROJECT_DIR$/src/cn/moverco/kotlindemo/c3/package1/Type.kt" />
+      <change beforePath="$PROJECT_DIR$/src/cn/moverco/kotlindemo/c4/ParametersDemo.kt" afterPath="$PROJECT_DIR$/src/cn/moverco/kotlindemo/c4/ParametersDemo.kt" />
+      <change beforePath="$PROJECT_DIR$/src/cn/moverco/kotlindemo/c5/C5main.kt" afterPath="$PROJECT_DIR$/src/cn/moverco/kotlindemo/c5/C5main.kt" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -12,101 +60,101 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="525">
-      <file leaf-file-name="LambdaDemo.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cn/moverco/kotlindemo/c4/LambdaDemo.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="416">
-              <caret line="13" column="8" lean-forward="false" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ClazzDemo.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cn/moverco/kotlindemo/c4/ClazzDemo.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-888">
-              <caret line="10" column="22" lean-forward="false" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ExceptionDemo.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cn/moverco/kotlindemo/c4/ExceptionDemo.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="32">
-              <caret line="1" column="15" lean-forward="false" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="ParametersDemo.kt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/cn/moverco/kotlindemo/c4/ParametersDemo.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1184">
-              <caret line="37" column="24" lean-forward="false" selection-start-line="37" selection-start-column="24" selection-end-line="37" selection-end-column="24" />
+            <state relative-caret-position="544">
+              <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="C5main.kt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="C5main.kt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/cn/moverco/kotlindemo/c5/C5main.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="224">
-              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+            <state relative-caret-position="619">
+              <caret line="26" column="27" lean-forward="false" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="OperatorDemo.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cn/moverco/kotlindemo/c4/OperatorDemo.kt">
+      <file leaf-file-name="Person.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cn/moverco/kotlindemo/c5/Person.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="712">
-              <caret line="41" column="0" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+            <state relative-caret-position="506">
+              <caret line="28" column="23" lean-forward="false" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BrachingDemo.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cn/moverco/kotlindemo/c4/BrachingDemo.kt">
+      <file leaf-file-name="Manager.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cn/moverco/kotlindemo/c5/Manager.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-160">
-              <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+            <state relative-caret-position="114">
+              <caret line="45" column="15" lean-forward="true" selection-start-line="45" selection-start-column="15" selection-end-line="45" selection-end-column="15" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LoopDemo.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cn/moverco/kotlindemo/c4/LoopDemo.kt">
+      <file leaf-file-name="Conflicts.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cn/moverco/kotlindemo/c5/Conflicts.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="256">
-              <caret line="8" column="22" lean-forward="false" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+            <state relative-caret-position="-501">
+              <caret line="19" column="31" lean-forward="false" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_Arrays.kt" pinned="false" current-in-tab="false">
-        <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-sources.jar!/generated/_Arrays.kt">
+      <file leaf-file-name="Visibility.kt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/cn/moverco/kotlindemo/c5/Visibility.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="8168" column="55" lean-forward="false" selection-start-line="8168" selection-start-column="55" selection-end-line="8168" selection-end-column="55" />
+            <state relative-caret-position="619">
+              <caret line="25" column="26" lean-forward="false" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="IndexedValue.kt" pinned="false" current-in-tab="false">
-        <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-sources.jar!/kotlin/collections/IndexedValue.kt">
+      <file leaf-file-name="InputDevice.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cn/moverco/kotlindemo/c5/InputDevice.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="256">
-              <caret line="8" column="18" lean-forward="false" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+            <state relative-caret-position="417">
+              <caret line="49" column="29" lean-forward="false" selection-start-line="49" selection-start-column="29" selection-end-line="49" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Array.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cn/moverco/kotlindemo/c2/Array.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="64">
+              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="49" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MainType.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cn/moverco/kotlindemo/c3/package1/MainType.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="384">
+              <caret line="12" column="40" lean-forward="false" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Type.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cn/moverco/kotlindemo/c3/package1/Type.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="192">
+              <caret line="6" column="1" lean-forward="false" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -118,9 +166,13 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Kotlin Interface" />
         <option value="Kotlin File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -162,7 +214,19 @@
         <option value="$PROJECT_DIR$/src/cn/moverco/c4/OperatorDemo.kt" />
         <option value="$PROJECT_DIR$/src/cn/moverco/c4/ParametersDemo.kt" />
         <option value="$PROJECT_DIR$/src/cn/moverco/c5/C5main.kt" />
+        <option value="$PROJECT_DIR$/src/cn/moverco/kotlindemo/c1/HelloWorld.kt" />
+        <option value="$PROJECT_DIR$/src/cn/moverco/kotlindemo/c3/package1/TypeDemo.kt.kt" />
+        <option value="$PROJECT_DIR$/src/cn/moverco/kotlindemo/c3/package1/Type.kt" />
+        <option value="$PROJECT_DIR$/src/cn/moverco/kotlindemo/c2/Array.kt" />
+        <option value="$PROJECT_DIR$/src/cn/moverco/kotlindemo/c4/ParametersDemo.kt" />
+        <option value="$PROJECT_DIR$/src/cn/moverco/kotlindemo/c3/package1/MainType.kt" />
+        <option value="$PROJECT_DIR$/src/cn/moverco/kotlindemo/c5/Diff.kt" />
+        <option value="$PROJECT_DIR$/src/cn/moverco/kotlindemo/c5/InputDevice.kt" />
+        <option value="$PROJECT_DIR$/src/cn/moverco/kotlindemo/c5/Person.kt" />
+        <option value="$PROJECT_DIR$/src/cn/moverco/kotlindemo/c5/Manager.kt" />
         <option value="$PROJECT_DIR$/src/cn/moverco/kotlindemo/c5/C5main.kt" />
+        <option value="$PROJECT_DIR$/src/cn/moverco/kotlindemo/c5/Conflicts.kt" />
+        <option value="$PROJECT_DIR$/src/cn/moverco/kotlindemo/c5/Visibility.kt" />
       </list>
     </option>
   </component>
@@ -173,10 +237,13 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1053" />
-    <option name="y" value="109" />
+    <option name="x" value="1338" />
+    <option name="y" value="141" />
     <option name="width" value="1592" />
     <option name="height" value="1273" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -193,7 +260,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="AndroidView">
         <subPane>
           <expand>
@@ -216,6 +282,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -271,7 +338,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.cn.moverco.c4.ParametersDemoKt">
+  <component name="RunManager" selected="Kotlin.cn.moverco.kotlindemo.c5.ConflictsKt">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
@@ -312,21 +379,9 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="cn.moverco.c4.BrachingDemoKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="cn.moverco.c4.ParametersDemoKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="cn.moverco.c4.BrachingDemoKt" />
-      <option name="VM_PARAMETERS" value="" />
-      <option name="PROGRAM_PARAMETERS" value="0" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="kotlindemo" />
-      <envs />
-    </configuration>
-    <configuration name="cn.moverco.c4.ClazzDemoKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="cn.moverco.c4.ClazzDemoKt" />
+      <option name="MAIN_CLASS_NAME" value="cn.moverco.c4.ParametersDemoKt" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -336,33 +391,45 @@
       <module name="kotlindemo" />
       <envs />
     </configuration>
-    <configuration name="cn.moverco.c4.LambdaDemoKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="cn.moverco.kotlindemo.c5.ConflictsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="cn.moverco.c4.LambdaDemoKt" />
-      <option name="VM_PARAMETERS" value="" />
-      <option name="PROGRAM_PARAMETERS" value="2 5 k l h i m n" />
-      <option name="WORKING_DIRECTORY" value="" />
+      <option name="MAIN_CLASS_NAME" value="cn.moverco.kotlindemo.c5.ConflictsKt" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="kotlindemo" />
       <envs />
     </configuration>
-    <configuration name="cn.moverco.c4.OperatorDemoKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="cn.moverco.kotlindemo.c5.InputDeviceKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="cn.moverco.c4.OperatorDemoKt" />
-      <option name="VM_PARAMETERS" value="" />
-      <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
+      <option name="MAIN_CLASS_NAME" value="cn.moverco.kotlindemo.c5.InputDeviceKt" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="kotlindemo" />
       <envs />
     </configuration>
-    <configuration name="cn.moverco.c4.ParametersDemoKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="cn.moverco.kotlindemo.c5.ManagerKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="cn.moverco.c4.ParametersDemoKt" />
+      <option name="MAIN_CLASS_NAME" value="cn.moverco.kotlindemo.c5.ManagerKt" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="kotlindemo" />
+      <envs />
+    </configuration>
+    <configuration name="cn.moverco.kotlindemo.c5.PersonKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="cn.moverco.kotlindemo.c5.PersonKt" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -413,19 +480,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Kotlin.cn.moverco.c4.LambdaDemoKt" />
-      <item index="1" class="java.lang.String" itemvalue="Kotlin.cn.moverco.c4.ClazzDemoKt" />
-      <item index="2" class="java.lang.String" itemvalue="Kotlin.cn.moverco.c4.OperatorDemoKt" />
-      <item index="3" class="java.lang.String" itemvalue="Kotlin.cn.moverco.c4.BrachingDemoKt" />
-      <item index="4" class="java.lang.String" itemvalue="Kotlin.cn.moverco.c4.ParametersDemoKt" />
+      <item index="0" class="java.lang.String" itemvalue="Kotlin.cn.moverco.c4.ParametersDemoKt" />
+      <item index="1" class="java.lang.String" itemvalue="Kotlin.cn.moverco.kotlindemo.c5.InputDeviceKt" />
+      <item index="2" class="java.lang.String" itemvalue="Kotlin.cn.moverco.kotlindemo.c5.PersonKt" />
+      <item index="3" class="java.lang.String" itemvalue="Kotlin.cn.moverco.kotlindemo.c5.ManagerKt" />
+      <item index="4" class="java.lang.String" itemvalue="Kotlin.cn.moverco.kotlindemo.c5.ConflictsKt" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Kotlin.cn.moverco.c4.ParametersDemoKt" />
-        <item index="1" class="java.lang.String" itemvalue="Kotlin.cn.moverco.c4.OperatorDemoKt" />
-        <item index="2" class="java.lang.String" itemvalue="Kotlin.cn.moverco.c4.BrachingDemoKt" />
-        <item index="3" class="java.lang.String" itemvalue="Kotlin.cn.moverco.c4.ClazzDemoKt" />
-        <item index="4" class="java.lang.String" itemvalue="Kotlin.cn.moverco.c4.LambdaDemoKt" />
+        <item index="0" class="java.lang.String" itemvalue="Kotlin.cn.moverco.kotlindemo.c5.ConflictsKt" />
+        <item index="1" class="java.lang.String" itemvalue="Kotlin.cn.moverco.kotlindemo.c5.ManagerKt" />
+        <item index="2" class="java.lang.String" itemvalue="Kotlin.cn.moverco.kotlindemo.c5.PersonKt" />
+        <item index="3" class="java.lang.String" itemvalue="Kotlin.cn.moverco.kotlindemo.c5.InputDeviceKt" />
+        <item index="4" class="java.lang.String" itemvalue="Kotlin.cn.moverco.c4.ParametersDemoKt" />
       </list>
     </recent_temporary>
   </component>
@@ -443,41 +510,42 @@
       <option name="presentableId" value="Default" />
       <updated>1519887097508</updated>
       <workItem from="1519887101800" duration="1357000" />
-      <workItem from="1519910915240" duration="25100000" />
+      <workItem from="1519910915240" duration="26427000" />
+      <workItem from="1520225102467" duration="5551000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26457000" />
+    <option name="totallyTimeSpent" value="33335000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1053" y="109" width="1592" height="1273" extended-state="0" />
+    <frame x="1338" y="141" width="1592" height="1273" extended-state="0" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32761732" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27669454" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32912534" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Kotlin Bytecode" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5410156" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21262766" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29340762" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37863168" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21938775" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21747449" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3998195" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33911672" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Kotlin Bytecode" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5410156" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -526,12 +594,101 @@
           <line>28</line>
           <properties />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/cn/moverco/kotlindemo/c5/Manager.kt</url>
+          <line>35</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="3" />
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="5" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/cn/moverco/kotlindemo/c4/LambdaDemo.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="13" column="8" lean-forward="false" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/moverco/kotlindemo/c4/ClazzDemo.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="10" column="22" lean-forward="false" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/moverco/kotlindemo/c4/ExceptionDemo.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="1" column="15" lean-forward="false" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/moverco/kotlindemo/c4/ParametersDemo.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1184">
+          <caret line="37" column="24" lean-forward="false" selection-start-line="37" selection-start-column="24" selection-end-line="37" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/moverco/kotlindemo/c5/C5main.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/moverco/kotlindemo/c5/InputDevice.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1568">
+          <caret line="49" column="36" lean-forward="false" selection-start-line="49" selection-start-column="36" selection-end-line="49" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/moverco/kotlindemo/c4/OperatorDemo.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1312">
+          <caret line="41" column="0" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/moverco/kotlindemo/c4/BrachingDemo.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="512">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/moverco/kotlindemo/c4/LoopDemo.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="8" column="22" lean-forward="false" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/moverco/kotlindemo/c1/HelloWorld.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="2" column="18" lean-forward="false" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/cn/moverco/kotlindemo/c1/FirstKotlinDemo.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="128">
@@ -566,18 +723,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-4256">
           <caret line="871" column="36" lean-forward="false" selection-start-line="871" selection-start-column="36" selection-end-line="871" selection-end-column="36" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/moverco/c2/TypesAndObjects.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="2" column="28" lean-forward="false" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/moverco/c2/TypesAndObjects.java" />
     <entry file="file://$PROJECT_DIR$/src/cn/moverco/kotlindemo/c2/NullUnSafe.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="128">
@@ -595,7 +744,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="64">
           <caret line="2" column="19" lean-forward="false" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -619,7 +767,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1419">
           <caret line="93" column="13" lean-forward="false" selection-start-line="93" selection-start-column="13" selection-end-line="93" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -651,23 +798,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/moverco/kotlindemo/c3/package1/MainType.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="5" column="19" lean-forward="false" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/moverco/kotlindemo/c2/Array.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="8" column="11" lean-forward="false" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -687,26 +817,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/moverco/kotlindemo/c3/package1/Type.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/cn/moverco/kotlindemo/c1/FirstKotlinDemo.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
           <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/moverco/kotlindemo/c1/HelloWorld.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="237">
-          <caret line="25" column="11" lean-forward="true" selection-start-line="25" selection-start-column="11" selection-end-line="25" selection-end-column="11" />
           <folding />
         </state>
       </provider>
@@ -730,19 +844,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/moverco/c4/WhenDemo.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="6" column="35" lean-forward="true" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/moverco/c4/WhenDemo.kt" />
     <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-sources.jar!/generated/_Arrays.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="280">
           <caret line="8168" column="55" lean-forward="false" selection-start-line="8168" selection-start-column="55" selection-end-line="8168" selection-end-column="55" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -750,13 +856,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="256">
           <caret line="8" column="18" lean-forward="false" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/cn/moverco/kotlindemo/c4/ClazzDemo.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-888">
+        <state relative-caret-position="320">
           <caret line="10" column="22" lean-forward="false" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
           <folding />
         </state>
@@ -772,7 +877,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/cn/moverco/kotlindemo/c4/OperatorDemo.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="712">
+        <state relative-caret-position="1312">
           <caret line="41" column="0" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
           <folding />
         </state>
@@ -796,24 +901,104 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/cn/moverco/kotlindemo/c4/BrachingDemo.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-160">
+        <state relative-caret-position="512">
           <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/moverco/kotlindemo/c1/HelloWorld.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/moverco/kotlindemo/c3/package1/Type.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="6" column="1" lean-forward="false" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/moverco/kotlindemo/c2/Array.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="49" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/cn/moverco/kotlindemo/c4/ParametersDemo.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1184">
-          <caret line="37" column="24" lean-forward="false" selection-start-line="37" selection-start-column="24" selection-end-line="37" selection-end-column="24" />
+        <state relative-caret-position="544">
+          <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/moverco/kotlindemo/c3/package1/MainType.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="12" column="40" lean-forward="false" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/moverco/kotlindemo/c5/Diff.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/moverco/kotlindemo/c5/InputDevice.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="417">
+          <caret line="49" column="29" lean-forward="false" selection-start-line="49" selection-start-column="29" selection-end-line="49" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/moverco/kotlindemo/c5/Person.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="28" column="23" lean-forward="false" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/moverco/kotlindemo/c5/Manager.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="45" column="15" lean-forward="true" selection-start-line="45" selection-start-column="15" selection-end-line="45" selection-end-column="15" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/cn/moverco/kotlindemo/c5/C5main.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        <state relative-caret-position="619">
+          <caret line="26" column="27" lean-forward="false" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/moverco/kotlindemo/c5/Conflicts.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-501">
+          <caret line="19" column="31" lean-forward="false" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/moverco/kotlindemo/c5/Visibility.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="619">
+          <caret line="25" column="26" lean-forward="false" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
           <folding />
         </state>
       </provider>
