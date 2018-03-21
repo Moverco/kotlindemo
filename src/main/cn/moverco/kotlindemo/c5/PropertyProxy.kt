@@ -26,6 +26,14 @@ class Proxy {
     }
 }
 
+/**
+ *
+ * output:
+getValue:cn.moverco.kotlindemo.c5.PP@e9e54c2->proxy
+
+setValue:cn.moverco.kotlindemo.c5.PP@e9e54c2->proxy = proxy
+getValue:cn.moverco.kotlindemo.c5.PP@e9e54c2->proxy
+ */
 fun main(args: Array<String>) {
     val pp = PP()
     println(pp.proxy)

@@ -27,7 +27,7 @@ allOpen{
     annotation("cn.moverco.kotlindemo.c5.Bean")
 }
 
-sourceCompatibility = 1.5
+sourceCompatibility = 1.8
 
 repositories {
     mavenCentral()
